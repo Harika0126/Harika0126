@@ -14,7 +14,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Harika0126.Harika0126&right_color=blue&left_text=visitors"  />
 </div>
 
